@@ -49,7 +49,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/swarit-kumar" target="_blank">
+  <a href="http://www.linkedin.com/in/swarit-kumar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
 </div>
